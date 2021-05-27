@@ -2,8 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhinandan-Purkait" alt="devded" /></p>
 
-I'm an coding enthusiast. I love exploring new tech stacks and love indulging in tech conversations that happen around me. I love play computer games too.
-Loving one's own job passionately is very important and that's what I do. Do reach me out for any tech coverstion you want on these links below...
+I'm an coding enthusiast. I love exploring new tech stacks and love indulging in tech conversations that happen around me.
+Loving one's own job passionately is very important and fortunately I do. Do reach me out for any these links below...
 
 <br/>
 
