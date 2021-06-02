@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhinandan-Purkait" alt="devded" /></p>
 
-Loving one's own job passionately is very important for 100% contribution and happiness.
+Loving one's own job passionately is very important for 100% contribution and happiness.<br/>
 I'm an coding enthusiast. I love exploring new tech stacks and love indulging in tech conversations. Do reach me out for any these links below...
 
 <br/>
