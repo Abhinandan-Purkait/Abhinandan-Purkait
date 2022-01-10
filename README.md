@@ -11,7 +11,8 @@ I'm an coding enthusiast. I love exploring new tech stacks and love indulging in
 
 <br />
 
-- 🔭 I’m currently working on **Golang** and **Kubernetes**.
+- 🔭 I’m currently working on **MayaStor** Storage Engine's Control Plane Development using **Rust**.
+- 🔭 I have been primarily working with **Golang** and **Kubernetes**
 - 🌱 I’m currently learning **DevOps Style Development**.
 - 👯 I’m looking to collaborate on **open source projects**.
 - 💬 Ask me about **tech related stuffs**.
