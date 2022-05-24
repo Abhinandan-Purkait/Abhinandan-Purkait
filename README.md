@@ -41,6 +41,6 @@
  
 ![](https://activity-graph.herokuapp.com/graph?username=Abhinandan-Purkait&theme=dracula&hide_border=true)
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhinandan-Purkait&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
-<img height="180em" style="max-width:100%;" src="https://github-readme-streak-stats.herokuapp.com?user=Abhinandan-Purkait&theme=dracula">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhinandan-Purkait&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Abhinandan-Purkait&theme=dracula">
  </p>
