@@ -10,9 +10,9 @@
 
 ## 🤝‍ Socials
 <h1>
-<a href="https://twitter.com/Abhinandan1511" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a> <a href="https://www.linkedin.com/in/Abhinandan-Purkait" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a> <a href="mailto:abhinandan.purkait@datacore.com" target="_blank"><img alt="Email" title="abhinandan.purkait@datacore.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://twitter.com/Abhinandan1511" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
+<a href="https://www.linkedin.com/in/Abhinandan-Purkait" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href="mailto:abhinandan.purkait@datacore.com"><img alt="Email" title="abhinandan.purkait@datacore.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br />
