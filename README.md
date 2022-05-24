@@ -1,15 +1,6 @@
-<h2> Hello, I'm Abhinandan Purkait <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <h2>Hello, I'm Abhinandan Purkait</h2> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhinandan-Purkait" alt="devded" /></p>
-
-Loving one's own job passionately is very important for 100% contribution and happiness.<br/>
-I'm an coding enthusiast. I love exploring new tech stacks and love indulging in tech conversations. Do reach me out for any these links below...
-
-<br/>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Abhinandan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinandan-purkait/)](https://www.linkedin.com/in/abhinandan-purkait/) [![Gmail Badge](https://img.shields.io/badge/-abhinandan@mayadata.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinandan@mayadata.io)](mailto:abhinandan@mayadata.io) [![Twitter Badge](https://img.shields.io/badge/-Abhinandan1511-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Abhinandan1511)](https://twitter.com/Abhinandan1511)
-
-<br />
 
 - 🔭 I’m currently working on **MayaStor** Storage Engine's Control Plane Development using **Rust**.
 - 🔭 I have been primarily working with **Golang** and **Kubernetes**
@@ -17,9 +8,39 @@ I'm an coding enthusiast. I love exploring new tech stacks and love indulging in
 - 👯 I’m looking to collaborate on **open source projects**.
 - 💬 Ask me about **tech related stuffs**.
 
-<br />
+## 🤝‍ Socials
+<h1>
+<a href="https://twitter.com/Abhinandan1511" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a> <a href="https://www.linkedin.com/in/Abhinandan-Purkait" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a> <a href="mailto:abhinandan.purkait@datacore.com" target="_blank"><img alt="Email" title="abhinandan.purkait@datacore.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-## Tools I work with
- <img src = 'https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/git.svg' height='30'/> <img src = 'https://image.flaticon.com/icons/svg/919/919853.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='27'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://image.flaticon.com/icons/svg/919/919856.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python.svg' width='30'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='30'/>
+<br />
  
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinandan-Purkait&layout=compact" height="170px">  <img src = "https://github-readme-stats.vercel.app/api?username=Abhinandan-Purkait&show_icons=true&hide=[%22issues%22]"  height="170px">
+## 🛠 Languages & Tools 
+<h1 align = "center">
+ 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/-bootstrap-5448C8?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Java](https://img.shields.io/badge/-java-red?style=for-the-badge&logo=java&logoColor=black)
+![Docker](https://img.shields.io/badge/-docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Ember.js](https://img.shields.io/badge/ember.js-E04E39?style=for-the-badge&logo=emberdotjs&logoColor=white)
+![K8S](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white\https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go]( https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python]( https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Rust]( https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
+ 
+## 📈 GitHub Stats
+<h1>
+ 
+![](https://activity-graph.herokuapp.com/graph?username=Abhinandan-Purkait&theme=dracula&hide_border=true)
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhinandan-Purkait&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
+<img height="180em" style="max-width:100%;" src="https://github-readme-streak-stats.herokuapp.com?user=Abhinandan-Purkait&theme=dracula">
+ </p>
