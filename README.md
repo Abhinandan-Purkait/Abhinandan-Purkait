@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhinandan-Purkait" alt="devded" /></p>
 
 - 🔭 I’m currently working on **MayaStor** Storage Engine's Control Plane Development using **Rust**.
-- 🔭 I have been primarily working with **Golang** and **Kubernetes**
+- 🔭 I have been primarily working with **Rust** and **Kubernetes**
 - 🌱 I’m currently learning **DevOps Style Development**.
 - 👯 I’m looking to collaborate on **open source projects**.
 - 💬 Ask me about **tech related stuffs**.
