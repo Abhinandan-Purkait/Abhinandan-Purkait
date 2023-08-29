@@ -40,6 +40,6 @@
  
 ## 📈 GitHub Stats
 <h1>
-<p align="center">
- ![Abhinandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinandan-Purkait&show_icons=true&theme=radical&amp;include_all_commits=true&amp;count_private=true)
- </p>
+
+![Abhinandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinandan-Purkait&show_icons=true&theme=radical&amp;include_all_commits=true&amp;count_private=true)
+
