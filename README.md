@@ -2,11 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhinandan-Purkait" alt="devded" /></p>
 
-- 🔭 I’m currently working on **MayaStor** Storage Engine's Control Plane Development using **Rust**.
-- 🔭 I have been primarily working with **Rust** and **Kubernetes**
-- 🌱 I’m currently learning **DevOps Style Development**.
+- 🔭 I’m currently working on OpenEBS's storage solutions.
+- 🔭 I have been primarily working with **Rust**, **Go**, **Python** and **Kubernetes**
 - 👯 I’m looking to collaborate on **open source projects**.
-- 💬 Ask me about **tech related stuffs**.
 
 ## 🤝‍ Socials
 <h1>
@@ -36,10 +34,3 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-5448C8?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-red?style=for-the-badge&logo=java&logoColor=black)
-
- 
-## 📈 GitHub Stats
-<h1>
-
-![Abhinandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinandan-Purkait&show_icons=true&theme=radical&amp;include_all_commits=true&amp;count_private=true)
-
